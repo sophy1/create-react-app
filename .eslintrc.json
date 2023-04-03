@@ -22,7 +22,8 @@
         "packages/cra-template/**/*.js",
         "packages/react-error-overlay/**/*.js",
         "packages/react-scripts/fixtures/kitchensink/template/{src,integration}/**/*.js",
-        "test/fixtures/*/src/*.js"
+        "test/fixtures/*/src/*.js",
+        "test.js"
       ],
       "excludedFiles": ["packages/react-error-overlay/*.js"],
       "extends": ["react-app", "react-app/jest"]
